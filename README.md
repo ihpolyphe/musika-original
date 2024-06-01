@@ -3,7 +3,7 @@
 
 - [WSL2でmusikaでfinetuning](https://zenn.dev/ihpolyphe/articles/4c195a6fa343d7)
 
-## Execution
+# Execution
 セットアップが完了している場合、`conda activate musika`から仮想環境を起動する。
 
 ### fineturning
